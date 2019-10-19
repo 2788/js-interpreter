@@ -3,6 +3,8 @@
 
 ## 这个小玩具是看完王垠的[怎样写一个解释器](https://www.yinwang.org/blog-cn/2012/08/01/interpreter)之后完成的
 
+## 代码里面有很详细的注释
+
 ## 仅根据estree实现
 parser太累了,所以利用acorn做parser,(之前babel好像也是利用的acorn做的parser)
 
@@ -18,5 +20,5 @@ parser太累了,所以利用acorn做parser,(之前babel好像也是利用的acor
 
 如果觉得我的项目还不错的话 :clap:，就给个 star :star: 鼓励一下吧~
 
-## 欢迎大家来指导和批评,同时希望能认识一些朋友,有兴趣的话可以加我微信: DL0523
+## 欢迎大家来指导和交流,同时希望能认识一些朋友,有兴趣的话可以加我微信: DL0523
 
