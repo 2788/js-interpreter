@@ -1,6 +1,3 @@
-# js-interpreter
-一个玩具级别的js解释器(用js实现)
-
 ## 这个小玩具是看完王垠的[怎样写一个解释器](https://www.yinwang.org/blog-cn/2012/08/01/interpreter)之后完成的
 
 ## 代码里面有很详细的注释
