@@ -11,8 +11,3 @@ parser太累了,所以利用acorn做parser,(之前babel好像也是利用的acor
 
 ## 正确性
 我自己只做了很简单的测试, 可以看parse-test.js,或者直接clone项目运行下interpreter.js
-欢迎来指出我的问题,帮助我这个菜鸟
-
-## 最后
-
-如果觉得我的项目还不错的话 :clap:，就给个 star :star: 鼓励一下吧~
